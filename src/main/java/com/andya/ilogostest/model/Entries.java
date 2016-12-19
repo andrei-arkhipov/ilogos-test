@@ -6,7 +6,7 @@ import java.util.List;
 import javax.xml.bind.annotation.*;
 
 /**
- * Created by AndyA on 16.12.2016.
+ * Created by AndyA on 15.12.2016.
  *
  * Helper class for top element of entries xml file.
  */

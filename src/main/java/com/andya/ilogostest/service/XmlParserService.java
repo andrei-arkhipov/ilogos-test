@@ -9,7 +9,7 @@ import com.andya.ilogostest.model.EntryRecord;
 
 
 /**
- * Created by AndyA on 18.12.2016.
+ * Created by AndyA on 16.12.2016.
  */
 public interface XmlParserService {
     List<EntryRecord> parseXml(File file) throws IOException, JAXBException;

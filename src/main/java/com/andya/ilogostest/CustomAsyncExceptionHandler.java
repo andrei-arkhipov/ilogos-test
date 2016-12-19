@@ -6,7 +6,7 @@ import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
 import java.lang.reflect.Method;
 
 /**
- * Created by AndyA on 18.12.2016.
+ * Created by AndyA on 16.12.2016.
  */
 public class CustomAsyncExceptionHandler  implements AsyncUncaughtExceptionHandler {
     private static final Logger logger = Logger.getLogger(CustomAsyncExceptionHandler.class);
