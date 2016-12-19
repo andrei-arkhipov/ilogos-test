@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Entries>
+    <name>Cambridge</name>
+    <address>England</address>
+    <Entry id="1">
+        <CONTENT>Alan Turing</CONTENT>
+        <creationDate>1956-10-01</creationDate>
+    </Entry>
+    <Entry>
+        <content>Thomas </content>
+        <creationDate>1916-03-03</creationDate>
+    </Entry>
+    <Entry>
+        <content>Linus Torvald</content>
+        <creationDate>1958-11-04</creationDate>
+    </Entry>
+</Entries>

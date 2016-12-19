@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Entries>
+    <Entry id="1">
+        <content>Alan Turing</content>
+        <creationDate>1956-10-01T11:11:35.317+02:00</creationDate>
+    </Entry>
+    <Entry>
+        <content>Thomas </content>
+        <creationDate>1916-03-03T12:16:40.317+02:00</creationDate>
+    </Entry>
+    <Entry>
+        <content>Linus Torvald</content>
+        <creationDate>1958-11-04</creationDate>
+    </Entry>
+</Entries>
